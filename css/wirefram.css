@@ -1,0 +1,29 @@
+body{
+    padding: 0%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.header{
+    background-color: rgb(51, 49, 49);
+    
+}
+.ultag{
+    height: 100px;
+    
+}
+.ultag li{
+    display: inline;
+   padding-left: 15px; 
+   color: gray; 
+}
+body:nth-child(2){
+    
+    background-color: gray;
+}
+.header .nav .nav1 .nav2 .ultag li:nth-child(2)
+{
+    background-color: green;
+    color: hotpink;
+    padding-top: 100px;
+    
+}
